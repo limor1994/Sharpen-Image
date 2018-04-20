@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/_5__.dir/myfunction.c.o CMakeFiles/_5__.dir/readBMP.c.o CMakeFiles/_5__.dir/showBMP.c.o CMakeFiles/_5__.dir/writeBMP.c.o  -o _5__ 

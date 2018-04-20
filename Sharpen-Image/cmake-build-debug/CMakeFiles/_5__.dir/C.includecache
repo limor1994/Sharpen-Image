@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/myfunction.c
+
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/readBMP.c
+stdio.h
+-
+stdlib.h
+-
+readBMP.h
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/readBMP.h
+
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/readBMP.h
+
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/showBMP.c
+GL/glut.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+stdio.h
+-
+stdlib.h
+-
+readBMP.h
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/readBMP.h
+string.h
+-
+writeBMP.h
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/writeBMP.h
+sys/time.h
+-
+sys/resource.h
+-
+myfunction.c
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/myfunction.c
+
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/writeBMP.c
+writeBMP.h
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/writeBMP.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/writeBMP.h
+readBMP.h
+/home/limor/Desktop/תרגיל 5 מבנה מחשב/readBMP.h
+
